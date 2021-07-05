@@ -1,0 +1,5 @@
+package com.brillio.ecommerce.controller;
+
+public class HomeController {
+
+}
